@@ -14,3 +14,4 @@ function checkObject(obj) {
 }
 
 checkObject(obj);
+//1
